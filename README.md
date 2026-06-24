@@ -131,7 +131,7 @@ Aplicativo mobile para gerenciamento financeiro pessoal.
 
 📧 **Email:** [bcomel0016@gmail.com](mailto:bcomel0016@gmail.com)
 
-💼 **LinkedIn:** www.linkedin.com/in/berenice-comel-rodrigues-68ab4b1a2
+💼 **LinkedIn:** [www.linkedin.com/in/berenice-comel-rodrigues-68ab4b1a2](malito:Berenice Rodrigues)
 
 ---
 
