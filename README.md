@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Berenice Rodrigues
 
 <p align="center">
-  <i>Formanda em Análise e Desenvolvimento de Sistemas • Desenvolvedora Full Stack • Apaixonada por tecnologia e aprendizado contínuo</i>
+  <i>Formada em Análise e Desenvolvimento de Sistemas • Desenvolvedora Full Stack • Apaixonada por tecnologia e aprendizado contínuo</i>
 </p>
 
 ---
